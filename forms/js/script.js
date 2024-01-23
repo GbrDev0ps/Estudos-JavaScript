@@ -25,7 +25,7 @@ function meuEscopo () {
         console.log(pessoas);
 
         resultado.innerHTML += `<p>Seu nome e sobrenome são: ${nome.value} ${sobrenome.value}</p>`
-        resultado.innerHTML += `<p>E seu peso e altura são: ${peso.value}KGs, ${altura.value}</p>`
+        resultado.innerHTML += `<p>E seu peso e altura são: ${peso.value}KGs com ${altura.value} de altura</p>`
 
     }
 
