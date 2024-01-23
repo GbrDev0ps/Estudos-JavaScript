@@ -1,0 +1,48 @@
+body {
+    text-align: center;
+    background-color: rgb(134, 177, 212);
+    font-size: 25px;
+    font: Sans-Serif;
+
+}
+
+h1 {
+    font-size: 35px; 
+}
+
+
+.cadastro{
+    top: 15%;
+    align-items: center;
+    width: 50%;
+    padding: 20px;
+    margin: 0 auto;
+    border : 5px solid black;
+    border-radius: 15px;
+
+}
+
+
+.form {
+    top: 15%;
+    width: 50%;
+    padding: 20px;
+    margin: 0 auto;
+    border : 5px solid black;
+    border-radius: 15px;
+}
+
+
+input {
+    border-radius: 15px;
+    height: 20px;
+}
+
+
+.image {
+    float: left;
+    left: 10px;
+    margin: 0 10px 5;
+    height: 150px;
+    width: 25opx;
+}
